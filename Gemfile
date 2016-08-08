@@ -41,6 +41,7 @@ group :development, :test do
   gem 'faker'
   gem 'better_errors'
   gem 'rspec-rails'
+  gem 'simplecov'
 end
 
 group :development do
