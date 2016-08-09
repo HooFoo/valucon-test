@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'simple_form'
-
+gem 'state_machines-activerecord'
 gem 'haml-rails'
 gem 'bootstrap-sass'
 # Use Capistrano for deployment
