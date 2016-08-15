@@ -46,6 +46,10 @@ group :development, :test do
   gem 'simplecov'
 end
 
+group :test do
+  gem 'sqlite3'
+end
+
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console'
