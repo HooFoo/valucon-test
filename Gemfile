@@ -32,6 +32,8 @@ gem 'simple_form'
 gem 'state_machines-activerecord'
 gem 'haml-rails'
 gem 'bootstrap-sass'
+
+gem 'carrierwave'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
